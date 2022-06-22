@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to Casandra's GitHub Page.
 
-You can use the [editor on GitHub](https://github.com/casandra-tan/casThesis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page is for access to tables from my thesis that are:
+1. Too long, or
+2. Not possible to be viewed on paper
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Thesis information
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Project Title**
+The microenvironment: how it impacts _Enterococcus faecalis_ wound pathogenesis
 
-- Bulleted
-- List
+by TAN Ai Zhu Casandra
 
-1. Numbered
-2. List
+For thesis submitted to the Nanyang Technological University in 
+partial fulfilment of the requirement for the degree of 
+Doctor of Philosophy
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Chapter 2
+#### _Entercoccus faecalis_ antagonizes _Pseudomonas aeruginosa_ growth in mixed-species interactions
 
-### Jekyll Themes
+__Supplementary File 1__
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/casandra-tan/casThesis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/1Ib0qqwqlC1iQA2SpxkiD8izf_U-IpN1bm5O5OFMug-M/pubhtml?widget=true&amp;headers=false"></iframe>
 
-### Support or Contact
+[link](https://docs.google.com/spreadsheets/d/1Ib0qqwqlC1iQA2SpxkiD8izf_U-IpN1bm5O5OFMug-M/edit?usp=sharing){:target="_blank"}
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Chapter 4
+#### The repressor C of the Pseudomonas aeruginosa PAO1 filamentous phages and their role in regulation
+
+__Appendix Table 11__
+
+<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU3Mq7YNTFwY9EhXvZ9YSNP6jfhzjUQ7oCnU_YjpJaVDbVN3HsMtseYMlF-6DgRIaHn3zquIjfsEi/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[link](https://goo.gl/dHNRdS){:target="_blank"}
+
+__Appendix Table 12__
+
+<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsaHq40yPJcMg7L7tq1Xp3J4aFPC5cjcTudGOSeVgCDOBhig6bj-N2OnpJuamJqYjf12SUOizWJP7m/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[link](https://goo.gl/1uWm1o){:target="_blank"}
+
+__Appendix Table 13__
+
+<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlBbr3k8pYM1LG4f_u-R-Y-6k_yQZKqT8XmYHQRr9SkMvLR4rFvnaPdFbxVihV5KxzfFzjIoUzZpuE/pubhtml?gid=94231731&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[link](https://goo.gl/ds4TNK){:target="_blank"}
