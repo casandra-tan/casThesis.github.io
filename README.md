@@ -8,7 +8,7 @@ This page is for access to tables from my thesis that are:
 ```markdown
 
 **Project Title**
-The microenvironment: how it impacts _Enterococcus faecalis_ wound pathogenesis
+The microenvironment: how it impacts *Enterococcus faecalis* wound pathogenesis
 
 by TAN Ai Zhu Casandra
 
