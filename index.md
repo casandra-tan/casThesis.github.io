@@ -5,7 +5,7 @@ This page is for access to tables from my thesis that are:
 2. Not possible to be viewed on paper
 
 ### Thesis information
-```
+```markdown
 
 **Project Title**
 The microenvironment: how it impacts _Enterococcus faecalis_ wound pathogenesis
