@@ -32,7 +32,7 @@ __Supplementary File 1__
 
 __Supplementary File 2__
 
-<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZUgV5qTQRHxDlpz3YIEJtMfc0X82Y5Ki5PsXv3_qY--oEntSNGkHn3PxgS3eSQdp76MGlU-zgIxNn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="750" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZUgV5qTQRHxDlpz3YIEJtMfc0X82Y5Ki5PsXv3_qY--oEntSNGkHn3PxgS3eSQdp76MGlU-zgIxNn/pubhtml?widget=true&amp;headers=false"></iframe>
 
 [link](https://docs.google.com/spreadsheets/d/1qSYGFmgQogF0k8JiOzvZgsPTtlSRosmfLtoOXBAVBBI/edit?usp=sharing){:target="_blank"}
 
